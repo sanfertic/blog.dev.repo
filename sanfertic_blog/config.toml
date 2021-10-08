@@ -1,0 +1,4 @@
+baseURL = 'https://sanfertic.github.io/'
+languageCode = 'en-us'
+title = 'Sanfertic'
+theme = 'contrast-hugo'

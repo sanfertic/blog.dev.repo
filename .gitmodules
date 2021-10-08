@@ -1,0 +1,4 @@
+[submodule "sanfertic_blog/public"]
+	path = sanfertic_blog/public
+	url = https://github.com/sanfertic/sanfertic.github.io.git
+	branch = main
